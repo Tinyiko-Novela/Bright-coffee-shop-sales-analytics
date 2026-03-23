@@ -26,6 +26,6 @@ This flowchart hightlight the main objectives of the project, the columns that w
 4. Data analysis and visualization in Excel
 -Use pivot tables, graphs and charts for visualization.
 
-5.Project presentation
+4.Project presentation
 -Summarise the findings in a powerpoint presentation.
 -Give recommendations based on the insights.
