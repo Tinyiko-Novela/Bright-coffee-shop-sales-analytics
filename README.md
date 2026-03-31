@@ -33,13 +33,13 @@ This flowchart hightlight the main objectives of the project, the columns that w
 ----FINDINGS
 -Which products generate the most revenue
 This coffee shop has 80 products in the menu, out of all those products, only 13 contribute to 90% of the total revenue.
-The best sellers is mostly coffee, teas and a few pastry products.
+The best sellers are mostly coffee, teas and a few pastry products.
 
 -What time of day the store performs best
 This store is open from 6 am to 8 pm, most sales occur between 9 am and 12 pm.
 
 -Sales trends across products and time intervals
-Revenue and sales gradually increase from January to June.
+Revenue and sales gradually increase from summer months to winter months(January to June).
 
 -Recommendations for improving sales performance
 Run promotions during the busiest time slots
