@@ -29,3 +29,19 @@ This flowchart hightlight the main objectives of the project, the columns that w
 4.Project presentation
 -Summarise the findings in a powerpoint presentation.
 -Give recommendations based on the insights.
+
+----FINDINGS
+-Which products generate the most revenue
+This coffee shop has 80 products in the menu, out of all those products, only 13 contribute to 90% of the total revenue.
+The best sellers is mostly coffee, teas and a few pastry products.
+
+-What time of day the store performs best
+This store is open from 6 am to 8 pm, most sales occur between 9 am and 12 pm.
+
+-Sales trends across products and time intervals
+Revenue and sales gradually increase from January to June.
+
+-Recommendations for improving sales performance
+Run promotions during the busiest time slots
+Do sales forecasting and manage inventory levels using historical data
+Discontinue slow moving products
